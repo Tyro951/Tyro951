@@ -1,3 +1,4 @@
+![](https://komarev.com/ghpvc/?username=Tyro951&color=blueviolet)
 #    Bienvenue sur mon profil GitHub, moi c'est Adam Bakir.:computer:
 
 ## J'ai 19 ans et je suis un étudiant en année 2 à l'iim dans l'axe Coding Digital Innovation.
@@ -18,3 +19,11 @@
 
 - [Réseau social mangas/animes](https://github.com/Tyro951/reseausocial)
 - [Portfolio v1](https://tyro951.github.io/Portfolio/)
+
+## Centres d'intérêt :heart:
+
+- Programmation Fullstack
+- Montage vidéo (en autodidacte)
+- Jouer à des petits jeux indés :video_game:
+- et des jeux plus compétitifs 🎮 !
+- Le sport 🏋🏽 !
