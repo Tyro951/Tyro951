@@ -2,8 +2,19 @@
 
 ## J'ai 19 ans et je suis un étudiant en année 2 à l'iim dans l'axe Coding Digital Innovation.
 
-Je suis assez passionné par la programmation backend et la création d'innovations numériques. J'ai une bonne base en développement web, plus en php que en javascript, je continue à apprendre et à grandir dans le domaine petit à petit. Entre autre je suis un vrai mordu du coding 👽️!
+- Passionné par la programmation backend et la création d'innovations numériques 👽️! 
+- Bonne base en développement web
+- PHP > JS 😶‍🌫️
 
 ## Compétences techniques :gear:
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Tyro951)](https://github.com/Tyro951/github-readme-stats)
+
+- Langages de programmation : JavaScript, HTML, CSS, Python
+- Base de données : MySQL
+- Outils de développement : Visual Studio Code, Git, GitHub Actions
+
+## Projets récents :rocket:
+
+- [Réseau social mangas/animes](https://github.com/Tyro951/reseausocial)
+- [Portfolio v1](https://tyro951.github.io/Portfolio/)
