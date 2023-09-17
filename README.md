@@ -27,3 +27,8 @@
 - Jouer à des petits jeux indés :video_game:
 - et des jeux plus compétitifs 🎮 !
 - Le sport 🏋🏽 !
+
+## Me Contacter ☎️
+
+- Mail: :envelope: Adam.bakir@edu.devinci.fr 
+- LinkedIn : https://www.linkedin.com/in/adam-bakir/
