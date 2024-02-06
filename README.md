@@ -1,5 +1,5 @@
 ![](https://komarev.com/ghpvc/?username=Tyro951&color=blueviolet)
-#    Bienvenue sur mon profil GitHub, moi c'est Adam Bakir.:computer:
+#    Bienvenue sur mon profil GitHub, moi c'est Adam Bakir. :computer:
 
 ## J'ai 19 ans et je suis un étudiant en année 2 à l'iim dans l'axe Coding Digital Innovation.
 
